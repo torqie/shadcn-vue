@@ -204,3 +204,7 @@ See the [Tailwind CSS documentation](https://tailwindcss.com/docs/customizing-co
 You can use this tool to convert your HEX color to HSL without the color space function. Simply add your color in hex format, copy one of the generated values, then add them to the CSS variable.
 
 <!-- <HexToChannels /> -->
+
+## Theme Generator
+
+Use the [shadcn-theme theme generator](https://shadcn-theme.com/) to create and customize theme colors for your project. This tool lets you see changes in real-time as you tweak colors for both dark and light themes. Once you’re happy with your theme, simply copy the generated Tailwind CSS and add it to your project to apply your new colors.
